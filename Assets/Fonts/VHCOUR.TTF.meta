@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b7b56f06d04ad204196a4963446d7731
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: .VnCourier NewH
+  fontNames:
+  - .VnCourier NewH
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c3135f963bca19d41811b993291d270c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
