@@ -127,6 +127,8 @@ public class GameController : MonoBehaviour
         audioSource.Play();
         audioSource.loop = false;
 
+        txtScore.text = "";
+
         pnlEndGame.SetActive(true);
         txtEndGame.text = "Your Score: " + score.ToString();
     }

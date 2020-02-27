@@ -69,29 +69,29 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11150}
+      Script: {instanceID: 11152}
     - Class: 114
-      Script: {instanceID: 11320}
+      Script: {instanceID: 11322}
     - Class: 114
-      Script: {instanceID: 11360}
+      Script: {instanceID: 11362}
     - Class: 114
-      Script: {instanceID: 11524}
+      Script: {instanceID: 11526}
     - Class: 114
-      Script: {instanceID: 11652}
+      Script: {instanceID: 11654}
     - Class: 114
-      Script: {instanceID: 11778}
+      Script: {instanceID: 11780}
     - Class: 114
-      Script: {instanceID: 11900}
+      Script: {instanceID: 11902}
     - Class: 114
-      Script: {instanceID: 12188}
+      Script: {instanceID: 12190}
     - Class: 114
-      Script: {instanceID: 12696}
+      Script: {instanceID: 12698}
     - Class: 114
-      Script: {instanceID: 13018}
+      Script: {instanceID: 13020}
     - Class: 114
-      Script: {instanceID: 13040}
+      Script: {instanceID: 13042}
     - Class: 114
-      Script: {instanceID: 13080}
+      Script: {instanceID: 13082}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -558,4 +558,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/Main.unity
-  playerPath: D:/Unity/Flappy_Bird/Build/Windows/Flappy Bird.exe
+  playerPath: D:/Unity/Flappy_Bird/Build/Windows/FlappyBird.exe

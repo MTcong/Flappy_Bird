@@ -39,6 +39,7 @@ public class BirdController : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         gameController.GetComponent<GameController>().EndGame();
+        anim.SetFloat("flyPower", 0);
         anim.SetBool("isDead", true);
     }
 
